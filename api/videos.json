@@ -241,6 +241,11 @@
                        
                        
                        
+               
+					
+                       
+                       
+                       
                                
 			{
 				"id": "climate/slides/introduction",
@@ -326,6 +331,20 @@
 					
                        
                        
+                       
+               
+					
+                       
+                       
+                       
+                               
+			{
+				"id": "data-management/tutorials/data-steward/slides",
+				"topic": "RDMBites Data Management",
+				"title": "What is a Data Steward?"
+			},
+								
+                               
                        
                
 					
@@ -542,6 +561,11 @@
                        
                        
                        
+               
+					
+                       
+                       
+                       
                                
                        
                                
@@ -737,6 +761,12 @@
                                
 			{
 				"id": "transcriptomics/tutorials/scrna-intro/slides",
+				"topic": "Transcriptomics",
+				"title": "An introduction to scRNA-seq data analysis"
+			},
+								
+			{
+				"id": "transcriptomics/tutorials/scrna-intro/slides_ES",
 				"topic": "Transcriptomics",
 				"title": "An introduction to scRNA-seq data analysis"
 			},
