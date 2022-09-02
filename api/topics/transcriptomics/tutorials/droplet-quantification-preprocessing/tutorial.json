@@ -27,8 +27,10 @@
   "contributors": [
     {
       "name": "Wendi Bacon",
-      "email": "wendi@ebi.ac.uk",
+      "email": "wendi@open.ac.uk",
+      "twitter": "WendiBacon1",
       "joined": "2020-03",
+      "elixir_node": "uk",
       "id": "nomadscientist",
       "url": "https://training.galaxyproject.org/training-material/api/contributors/nomadscientist.json"
     },
@@ -54,7 +56,7 @@
     "es"
   ],
   "gitter": "Galaxy-Training-Network/galaxy-single-cell",
-  "last_modified_at": "16-Sep-21",
+  "last_modified_at": "2022-03-01T08:52:18+00:00",
   "url": "/topics/transcriptomics/tutorials/droplet-quantification-preprocessing/tutorial.html",
   "topic_name": "transcriptomics",
   "tutorial_name": "droplet-quantification-preprocessing"
